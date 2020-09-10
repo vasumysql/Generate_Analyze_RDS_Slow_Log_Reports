@@ -20,7 +20,7 @@ Following tools are to be installed for this operation.
 (1) awscli – Cli utility for AWS Cloud 
 (2) jq – Utility For Parse And Format JSON Data, Just like SED for JSON
 
-Script File is -  rds_slow_log_pt.sh 
+Script File is -  rds_slow_log_pt_analyze.sh
 
 
 #######################
